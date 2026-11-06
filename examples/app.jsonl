@@ -1,0 +1,5 @@
+{"level":"INFO","message":"Service started"}
+{"level":"ERROR","message":"Database connection timed out"}
+{"level":"WARNING","message":"Cache miss"}
+{"level":"INFO","message":"Request completed"}
+{"level":"ERROR","message":"Database connection timed out"}
